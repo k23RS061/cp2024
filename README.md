@@ -6,5 +6,5 @@ This is README.
 
 ## Part 2
 1. monday
-1. tuesdai
+1. tuesday
 1. wednesday
